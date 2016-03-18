@@ -1,5 +1,5 @@
 # How to download early versions that are not released in the spigot?
-# There will be links released in readme's for early updates
+# By MythicFX
 
 1.2.0 alpha build:
 https://www.mediafire.com/?zte6maba5a1co1f
