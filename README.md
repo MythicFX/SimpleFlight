@@ -2,7 +2,7 @@
 # By MythicFX
 
 1.2.0 alpha build:
-https://www.mediafire.com/?zte6maba5a1co1f
+https://www.mediafire.com/?q8n3a32722qyzvb
 
 Changelogs:
 Added Particle effects when you fly, this can be disabled in config
