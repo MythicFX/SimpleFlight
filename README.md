@@ -11,3 +11,4 @@ Fixed Permission nodes
 
 Added custom editable prefix for simplefly :)
 
+Video: https://www.youtube.com/watch?v=gMsXd9MXZhY&feature=youtu.be
