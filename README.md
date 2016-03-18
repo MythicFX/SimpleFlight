@@ -2,20 +2,12 @@
 # By MythicFX
 
 1.2.0 alpha build:
-https://www.mediafire.com/?q8n3a32722qyzvb
+https://www.mediafire.com/?zdaw48rzpnv47xp
 
 Changelogs:
 Added Particle effects when you fly, this can be disabled in config
 
-Fixed permission nodes
-
-Added 2 new perms:
-
-simplefly.speed
-
-simplefly.*
-
-Added /speed to change your walk speed/fly speed
+Fixed Permission nodes
 
 Added custom editable prefix for simplefly :)
 
