@@ -1,0 +1,15 @@
+# Credits to MythicFX for configuration and to ArrowFX for the other stuff
+# Prefix
+
+ # By MythicFX
+ # Make sure to put a space after the prefix is done example &6[SimpleFly] space goes here after ]
+fly-on-msg: '&6Fly is now enabled!'
+fly-off-msg: '&4Fly is now disabled!'
+
+
+prefix: '&6[&aS&6i&bm&2p&1l&8e&5f&6l&4y&6] '
+# Extras
+# Particle fly spawns in mob spawner flames and smoke whenever you fly and move around :)
+particle-fly: true
+
+

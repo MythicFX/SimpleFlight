@@ -1,0 +1,23 @@
+name: SimpleFly
+main: me.firstflames.MainClass
+version: 1.2.0
+commands:
+   fly:
+      description: FLY LIKE A BIRD :)
+      usage: 
+   speed:
+      description: Go sonic!
+      usage: 
+permissions:
+    simplefly.*:
+       description: Use all SimpleFly commands.
+       children:
+           simplefly.fly: true
+           simplefly.speed: true
+       default: op
+    simplefly.fly:
+        description: Allows you to use /fly command!
+        default: op
+    simplefly.speed:
+        description: Allows you to set your fly/walk speed command!
+        default: op
